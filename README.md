@@ -1,4 +1,2 @@
 # TicTacToe
-First Tic-Tac-Toe game
-
-i forgot C so i made game to remember C
+Tic - Tac - Toe built in C as a console application that runs in the terminal
